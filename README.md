@@ -15,10 +15,10 @@
 
 #### 🔥 Volcanium Studio
 Studio web assotiatif
-🌐 https://volcanium-studio.com
+- 🌐 https://volcanium-studio.com
 
 #### ⛏️ Volcanium Minecraft
-🌐 https://volcanium.fr
+- 🌐 https://volcanium.fr
 
 ---
 
